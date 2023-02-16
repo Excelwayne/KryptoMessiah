@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KryptoMessiah
-- 👀 I’m interested in Blockchain Tech, cryptos, DeFi, NFTs
+- 👋 Hi, I’m @Lordwayne
+- 👀 I’m interested in Blockchain Tech, cryptos, DeFi, NFTs, Cloud Computing
 - 🌱 I’m currently learning NFTs
 - 💞️ I’m looking to collaborate on Crypto projects; DeFi, 
 - 📫 How to reach me Lordwaynebtc@gmail.com
